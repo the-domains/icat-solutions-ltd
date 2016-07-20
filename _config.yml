@@ -6,9 +6,9 @@ color:
   saturation: 0.2915852293372154
   rhythmicContrast: 0.3013581687118858
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
 name: iCat Solutions Ltd
